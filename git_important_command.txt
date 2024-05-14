@@ -34,6 +34,7 @@
 -> git merge <branch>	                // Merges the specified branch into the current branch.
 -> git log			                    // Displays the commit history of the current branch.
 -> git log –all			                // Displays the commit history of all branches
+-> git log --oneline                    // Display the commit in summery
 
 ## Remote Repositories
 -> git fetch			// Retrieves change from a remote repository, including new branches and commit.
