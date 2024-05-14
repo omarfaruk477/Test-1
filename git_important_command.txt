@@ -43,3 +43,4 @@
 -> git push			    // Pushes local commits to the remote repository.
 -> git push –all		// Pushes all branches to the remote repository.
 -> git remote			// Lists all remote repositories.
+-> git push -u origin [branch name]
